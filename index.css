@@ -1,0 +1,32 @@
+body{
+    background-color: green;
+    text-align: center;
+}
+button{
+    height: 150px;
+    width: 150px;
+    font-size: 30px;
+    border: solid grey;
+    border-width: 6px;
+}
+.w{
+    background-image: url(images/tom1.png);
+}
+.a{
+    background-image: url(images/tom2.png);
+}
+.s{
+    background-image: url(images/tom3.png);
+}
+.d{
+    background-image: url(images/tom4.png);
+}
+.j{
+    background-image: url(images/snare.png);
+}
+.k{
+    background-image: url(images/crash.png);
+}
+.l{
+    background-image: url(images/kick.png);
+}
